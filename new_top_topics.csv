@@ -1,0 +1,748 @@
+place_id,review_type,1st_topic,2nd_topic,3rd_topic,name
+ChIJ-21zmCEOsRIRUDHbDhKNBKk,negatif,6,8,5,centre hospitalier de béziers service des urgences
+ChIJ-21zmCEOsRIRUDHbDhKNBKk,positif,2,4,1,centre hospitalier de béziers service des urgences
+ChIJ-5-XIckCAUgR6gNzz6psTPw,negatif,6,5,8,centre hospitalier de saintonge
+ChIJ-5-XIckCAUgR6gNzz6psTPw,positif,2,4,1,centre hospitalier de saintonge
+ChIJ-5sjkWoarxIRVzRTvd3PlkE,negatif,8,3,6,centre hospitalier du val d'ariège urgences
+ChIJ-6tpSn6T-UcROJU9Jd6tF00,negatif,8,4,6,centre hospitalier aubusson - site le mont
+ChIJ-6tpSn6T-UcROJU9Jd6tF00,positif,4,2,3,centre hospitalier aubusson - site le mont
+ChIJ-TmzZuNSAUgR1b0vhrRhJK0,negatif,0,5,4,hôpital marius lacroix
+ChIJ-TmzZuNSAUgR1b0vhrRhJK0,positif,2,1,0,hôpital marius lacroix
+ChIJ-WB_hdYg1xIR-xR4gDYGB_w,negatif,6,2,7,clinique du cap
+ChIJ-agK9nwy_kcRMpwuH0-iXl8,negatif,6,2,5,hôpital de jour pédopsychiatrie patipata (antenne du centre hospitalier camille claudel)
+ChIJ-eQN8Ve_yRIRAYYnKUC7WtY,negatif,9,6,8,hôpitaux universitaires de marseille - ap-hm
+ChIJ-eQN8Ve_yRIRAYYnKUC7WtY,positif,4,2,9,hôpitaux universitaires de marseille - ap-hm
+ChIJ-fCWBwIc90cRt52oYK_sQto,negatif,6,8,5,chu clermont-fd site estaing
+ChIJ-fCWBwIc90cRt52oYK_sQto,positif,4,1,2,chu clermont-fd site estaing
+ChIJ-x0yX5gt_kcRz9tbnV7qPJg,negatif,8,4,7,centre hospitalier camille claudel
+ChIJ-x0yX5gt_kcRz9tbnV7qPJg,positif,2,4,5,centre hospitalier camille claudel
+ChIJ04VSWevV_EcREK8gRSD2yFg,negatif,5,6,8,chru hôpitaux de tours
+ChIJ04VSWevV_EcREK8gRSD2yFg,positif,4,2,1,chru hôpitaux de tours
+ChIJ06bynH7C9EcRIR7KR0X3JD4,negatif,5,6,8,groupe hospitalier les portes du sud
+ChIJ06bynH7C9EcRIR7KR0X3JD4,positif,2,1,4,groupe hospitalier les portes du sud
+ChIJ0RNXzBcsrhIRkvg9K7VTVhg,positif,1,0,7,centre hospitalier de carcassonne - camsp
+ChIJ0_TSR4ar9UcRrTGj6FJa4J0,negatif,6,8,5,chu nord saint-étienne
+ChIJ0_TSR4ar9UcRrTGj6FJa4J0,positif,4,2,9,chu nord saint-étienne
+ChIJ0ckTJnu7rhIRlWXLRRimxZE,negatif,1,9,0,hôtel-dieu saint-jacques
+ChIJ0ckTJnu7rhIRlWXLRRimxZE,positif,9,4,1,hôtel-dieu saint-jacques
+ChIJ1U2fErqeVA0RvoPdMj3sllE,negatif,6,8,5,centre hospitalier d'arcachon
+ChIJ1U2fErqeVA0RvoPdMj3sllE,positif,4,2,1,centre hospitalier d'arcachon
+ChIJ1UCV-BxLshIRzUx5vB9PNSU,negatif,6,5,9,centre hospitalier de millau
+ChIJ1UCV-BxLshIRzUx5vB9PNSU,positif,2,1,9,centre hospitalier de millau
+ChIJ1d3smcUOAEgRm5kSrTpGiRw,negatif,6,4,5,centre hospitalier de boscamnant
+ChIJ1d3smcUOAEgRm5kSrTpGiRw,positif,4,7,2,centre hospitalier de boscamnant
+ChIJ1f3uCcd9shIRfQYwfjlHsuw,negatif,5,4,9,centre hospitalier les peyrières
+ChIJ1wdnHC5JVQ0R9D3BtoQrUks,negatif,5,8,6,centre hospitalier de garderose
+ChIJ1xu69n67FkgRpJD11Een94s,negatif,8,5,7,hôpital de bohars
+ChIJ1xu69n67FkgRpJD11Een94s,positif,1,4,6,hôpital de bohars
+ChIJ20M5q3HZ-kcRtKURyhsM1Lg,negatif,6,5,8,centre hospitalier de vierzon
+ChIJ20M5q3HZ-kcRtKURyhsM1Lg,positif,4,2,1,centre hospitalier de vierzon
+ChIJ22LuTNybVA0RO0DXVklyXSo,positif,4,2,1,centre hospitalier d'arcachon service des urgences
+ChIJ2TgsRJxarhIRGb_MI3QsCXE,negatif,6,8,5,centre hospitalier jean-pierre cassabel
+ChIJ2TgsRJxarhIRGb_MI3QsCXE,positif,4,2,1,centre hospitalier jean-pierre cassabel
+ChIJ2YasZDGdqRIRvwIRFFkhCA8,negatif,6,5,8,centre hospitalier d'auch
+ChIJ2YasZDGdqRIRvwIRFFkhCA8,positif,2,4,1,centre hospitalier d'auch
+ChIJ2yKWGsErEkgRhqZVqwzi-Mw,negatif,6,8,5,centre hospitalier lannion-trestel
+ChIJ2yKWGsErEkgRhqZVqwzi-Mw,positif,4,2,1,centre hospitalier lannion-trestel
+ChIJ30A4TBwk1xIR4238-GRJ94g,negatif,7,6,0,brasserie de l'hôpital
+ChIJ30A4TBwk1xIR4238-GRJ94g,positif,2,9,1,brasserie de l'hôpital
+ChIJ31faIotR80cRaupj9pPao18,negatif,6,5,8,centre hospitalier de bourg-en-bresse / fleyriat
+ChIJ31faIotR80cRaupj9pPao18,positif,2,4,1,centre hospitalier de bourg-en-bresse / fleyriat
+ChIJ34zFHLrAD0gRRjmmswZRWKs,positif,4,5,7,ehpad de malestroit
+ChIJ39SVWaZF8EcR9ueyJkQpVDA,negatif,6,5,8,hôpital pierre-beregovoy
+ChIJ39SVWaZF8EcR9ueyJkQpVDA,positif,2,4,1,hôpital pierre-beregovoy
+ChIJ3R4joMwvDkgR1JCknlOs_lQ,negatif,2,0,5,centre hospitalier du centre bretagne (chcb)
+ChIJ3R4joMwvDkgR1JCknlOs_lQ,positif,9,2,4,centre hospitalier du centre bretagne (chcb)
+ChIJ3RVa1gUdDkgRvxCNPJ1tizM,negatif,6,5,8,hôpital de la cavale blanche
+ChIJ3RVa1gUdDkgRvxCNPJ1tizM,positif,4,2,9,hôpital de la cavale blanche
+ChIJ3VoDnWIk1xIRbC-AVBFgOeE,negatif,5,8,9,hospitalisation à domicile de corse
+ChIJ3VoDnWIk1xIRbC-AVBFgOeE,positif,4,9,2,hospitalisation à domicile de corse
+ChIJ3cnKCdUWrRIRFuIZjiuBec4,negatif,5,6,3,centre hospitalier de figeac
+ChIJ3cnKCdUWrRIRFuIZjiuBec4,positif,2,4,6,centre hospitalier de figeac
+ChIJ4T_h6ej65UcR_mOmRYePBjI,negatif,6,5,8,centre hospitalier de melun
+ChIJ4T_h6ej65UcR_mOmRYePBjI,positif,4,2,1,centre hospitalier de melun
+ChIJ4_GvnRcWyhIR55LZMG3bsAI,negatif,2,3,7,"centre hospitalier du pays d'apt, services d'urgences"
+ChIJ4_GvnRcWyhIR55LZMG3bsAI,positif,4,1,6,"centre hospitalier du pays d'apt, services d'urgences"
+ChIJ4xJ5yE7BFkgRgneBbzk4QiM,negatif,9,8,3,hôpital de la presqu'île de crozon
+ChIJ4xJ5yE7BFkgRgneBbzk4QiM,positif,6,4,0,hôpital de la presqu'île de crozon
+ChIJ52TkG5OrFkgRihwKVHOsXTk,negatif,6,3,9,centre de jour ty guen
+ChIJ5YIhowjeDkgRKIhB1luQrUg,negatif,6,5,8,centre hospitalier privé saint-grégoire
+ChIJ5YIhowjeDkgRKIhB1luQrUg,positif,2,4,1,centre hospitalier privé saint-grégoire
+ChIJ5ab3ZDJB9kcRQmgpOlilRHM,negatif,6,5,2,centre hospitalier de brioude
+ChIJ5ab3ZDJB9kcRQmgpOlilRHM,positif,4,2,1,centre hospitalier de brioude
+ChIJ5bFAAGAHBEgR0CDPWoDiUig,negatif,8,0,5,hôpital saint-honoré - ile de ré - groupe hospitalier de la rochelle-ré-aunis
+ChIJ5bFAAGAHBEgR0CDPWoDiUig,positif,2,6,3,hôpital saint-honoré - ile de ré - groupe hospitalier de la rochelle-ré-aunis
+ChIJ5dfGBlPnDkgRbJbJNx8lZtk,positif,2,5,0,diwall (centre médico-psychologique)
+ChIJ5fiAB_1_5EcR53Mx77ZOSa0,negatif,6,5,8,centre hospitalier
+ChIJ5fiAB_1_5EcR53Mx77ZOSa0,positif,2,4,1,centre hospitalier
+ChIJ5flzHjPID0gRDgM3Kz8aQKc,negatif,6,8,7,centre hospitalier alphonse guérin
+ChIJ5flzHjPID0gRDgM3Kz8aQKc,positif,2,4,1,centre hospitalier alphonse guérin
+ChIJ5w9i5_myqxIRHbJT7ORT-Xo,negatif,6,5,7,centre hospitalier agen-nérac (site d’agen)
+ChIJ5w9i5_myqxIRHbJT7ORT-Xo,positif,2,1,4,centre hospitalier agen-nérac (site d’agen)
+ChIJ5yNAqXR-shIR9r649n8aCLI,negatif,8,3,5,centre hospitalier sainte-marie rodez
+ChIJ5yNAqXR-shIR9r649n8aCLI,positif,9,4,2,centre hospitalier sainte-marie rodez
+ChIJ62xIDt7MEUgR8-ORrroHy9Q,negatif,6,5,0,centre médico-psychologique (cmp)
+ChIJ62xIDt7MEUgR8-ORrroHy9Q,positif,2,7,5,centre médico-psychologique (cmp)
+ChIJ63RvdqqzFkgROr2xPqKtDIA,negatif,6,5,8,centre hospitalier ferdinand grall
+ChIJ63RvdqqzFkgROr2xPqKtDIA,positif,1,2,4,centre hospitalier ferdinand grall
+ChIJ68BZkJKcGkgRvzCgwOejizU,negatif,8,5,9,centre hospitalier yves lanco
+ChIJ68BZkJKcGkgRvzCgwOejizU,positif,2,4,6,centre hospitalier yves lanco
+ChIJ6RaBoxOe8kcRX5HeTvTXyH8,negatif,6,5,8,centre hospitalier universitaire dijon bourgogne
+ChIJ6RaBoxOe8kcRX5HeTvTXyH8,positif,4,2,9,centre hospitalier universitaire dijon bourgogne
+ChIJ6RwvB1xeEEgRcKQZ9XmvSeI,negatif,6,5,8,hôpital du scorff
+ChIJ6RwvB1xeEEgRcKQZ9XmvSeI,positif,4,2,1,hôpital du scorff
+ChIJ6UyE1SnqzRIRJRPke1PSxcw,negatif,6,8,5,centre hospitalier la palmosa - menton
+ChIJ6UyE1SnqzRIRJRPke1PSxcw,positif,2,4,1,centre hospitalier la palmosa - menton
+ChIJ6c5NmyBP7kcRzBwWy0lqNVg,negatif,6,5,8,centre hospitalier d’auxerre
+ChIJ6c5NmyBP7kcRzBwWy0lqNVg,positif,4,2,1,centre hospitalier d’auxerre
+ChIJ6dxV08mSVg0RW_7YYYSbsG8,negatif,6,5,8,centre hospitalier d'orthez
+ChIJ6dxV08mSVg0RW_7YYYSbsG8,positif,2,4,1,centre hospitalier d'orthez
+ChIJ6xImL0AnyhIRnTJvQYl7Qis,negatif,6,5,8,chi aix-pertuis - hôpital de pertuis
+ChIJ6xImL0AnyhIRnTJvQYl7Qis,positif,2,4,6,chi aix-pertuis - hôpital de pertuis
+ChIJ75Xres9AAUgRbzxy39Hqsog,negatif,6,5,8,centre hospitalier de rochefort
+ChIJ75Xres9AAUgRbzxy39Hqsog,positif,2,4,1,centre hospitalier de rochefort
+ChIJ772SHWNAUQ0RaZOkIwGDHmo,negatif,9,7,0,centre hospitalier côte basque - foyer lormand
+ChIJ7XperRCcD0gRO-z_lfAHB4c,negatif,6,8,5,centre hospitalier intercommunal redon-carentoir
+ChIJ7XperRCcD0gRO-z_lfAHB4c,positif,2,4,1,centre hospitalier intercommunal redon-carentoir
+ChIJ7e-Jlgp3AUgRhf-e699e5K0,negatif,6,8,5,centre hospitalier royan atlantique
+ChIJ7e-Jlgp3AUgRhf-e699e5K0,positif,4,2,6,centre hospitalier royan atlantique
+ChIJ81UWVajuBUgRDvpY7iXEYRw,negatif,6,5,8,centre hospitalier universitaire de nantes
+ChIJ81UWVajuBUgRDvpY7iXEYRw,positif,4,2,9,centre hospitalier universitaire de nantes
+ChIJ82gvDUbFzRIRZsu_5REAAdQ,negatif,8,5,6,pasteur 2
+ChIJ82gvDUbFzRIRZsu_5REAAdQ,positif,4,1,9,pasteur 2
+ChIJ832oTjDzEUgREd0SgFPHDUQ,negatif,6,5,8,centre hospitalier de guingamp
+ChIJ832oTjDzEUgREd0SgFPHDUQ,positif,2,1,4,centre hospitalier de guingamp
+ChIJ848tZOK7FkgR8LCIxUDrAtU,negatif,6,2,5,"centre hospitalier régional universitaire, service d'urgences"
+ChIJ848tZOK7FkgR8LCIxUDrAtU,positif,4,2,3,"centre hospitalier régional universitaire, service d'urgences"
+ChIJ84uuXPe7FkgRWkvWaCvv11k,negatif,3,0,1,hôpital de jour langevin
+ChIJ89J5uDeCDkgR5M7h8WtJO9s,positif,1,2,5,ehpad de la haize
+ChIJ8SUsS7OA9kcRy2Z3lkG0BUE,negatif,6,5,0,centre hospitalier d'ambert
+ChIJ8SUsS7OA9kcRy2Z3lkG0BUE,positif,2,4,0,centre hospitalier d'ambert
+ChIJ8Viqqh3RVQ0R3PSkfR60cHY,negatif,6,8,5,centre hospitalier intercommunal mont-de-marsan - pays des sources (site layné)
+ChIJ8Viqqh3RVQ0R3PSkfR60cHY,positif,2,4,1,centre hospitalier intercommunal mont-de-marsan - pays des sources (site layné)
+ChIJ8YhKYfNbAEgRRzQOEmEpH3U,positif,4,9,2,centre hospitalier de jonzac - clinique de la dépression
+ChIJ8ZpjLU_q9EcRqgxGvQKu4f4,negatif,6,5,8,centre hospitalier saint joseph saint luc
+ChIJ8ZpjLU_q9EcRqgxGvQKu4f4,positif,4,2,1,centre hospitalier saint joseph saint luc
+ChIJ8d9Ew9K7FkgRsE2eq5MG18I,positif,2,9,7,centre psychothérapeutique winnicott
+ChIJ8edU6iEOsRIRSSCZ981VFDU,negatif,6,5,8,centre hospitalier de béziers
+ChIJ8edU6iEOsRIRSSCZ981VFDU,positif,2,4,1,centre hospitalier de béziers
+ChIJ8xRfHD6KDkgRDX7zhapr8to,negatif,8,5,3,centre hospitalier de dinan service des urgences
+ChIJ9-Sklc4xB0gRqYP8K6Q-VGs,negatif,6,5,3,centre hospitalier de niort
+ChIJ9-Sklc4xB0gRqYP8K6Q-VGs,positif,2,4,1,centre hospitalier de niort
+ChIJ95ouIGeJrBIRIIsJiEOmgoc,negatif,6,8,3,centre hospitalier de cahors service des urgences
+ChIJ95ouIGeJrBIRIIsJiEOmgoc,positif,2,4,6,centre hospitalier de cahors service des urgences
+ChIJ9Q_zJDHcAEgR1kundqnRWPQ,negatif,5,6,8,centre hospitalier de saint jean d'angely
+ChIJ9Q_zJDHcAEgR1kundqnRWPQ,positif,2,4,1,centre hospitalier de saint jean d'angely
+ChIJ9UgBb1heEEgR89bUmOgmJBk,positif,4,9,2,centre d'addictologie
+ChIJ9UvGS7qADkgR6-0AMP2X6lQ,negatif,1,7,5,fondation partage et vie - hôpital arthur gardiner - dinard
+ChIJ9UvGS7qADkgR6-0AMP2X6lQ,positif,3,4,1,fondation partage et vie - hôpital arthur gardiner - dinard
+ChIJ9XgVJeKLrBIR78XrXKtpOno,negatif,5,9,4,institut camille miret
+ChIJ9agO1mnr0BIR4zcNbI_IG30,negatif,6,8,5,centre hospitalier calvi balagne
+ChIJ9agO1mnr0BIR4zcNbI_IG30,positif,4,2,1,centre hospitalier calvi balagne
+ChIJ9bfyMqiC9EcRL6D3VunSCCY,negatif,6,9,5,centre hospitalier de belleville
+ChIJ9bfyMqiC9EcRL6D3VunSCCY,positif,4,0,5,centre hospitalier de belleville
+ChIJ9dXI2gYt_kcRxZn6fNqgFfI,negatif,5,6,3,centre hospitalier d'angoulême service des urgences
+ChIJ9dXI2gYt_kcRxZn6fNqgFfI,positif,2,4,1,centre hospitalier d'angoulême service des urgences
+ChIJ9fLvYA7OqBIRcZC7vXhULxc,negatif,6,5,8,centre hospitalier ariège couserans
+ChIJ9fLvYA7OqBIRcZC7vXhULxc,positif,2,4,1,centre hospitalier ariège couserans
+ChIJ9zh2teg6tRIRHXBS8UqHlEc,negatif,6,8,3,centre hospitalier de privas ardèche
+ChIJ9zh2teg6tRIRHXBS8UqHlEc,positif,2,4,6,centre hospitalier de privas ardèche
+ChIJA1KgUidZikcRjFvYjdT9lOQ,negatif,6,8,5,centre hospitalier universitaire
+ChIJA1KgUidZikcRjFvYjdT9lOQ,positif,4,2,1,centre hospitalier universitaire
+ChIJA2ZfsjrSrRIRuJqK8FSNYE4,negatif,8,9,2,centre hospitalier
+ChIJA2ZfsjrSrRIRuJqK8FSNYE4,positif,4,1,9,centre hospitalier
+ChIJA4ovYzfbEEgRCOdC9Kv3hro,negatif,6,8,5,centre hospitalier de cornouaille quimper concarneau
+ChIJA4ovYzfbEEgRCOdC9Kv3hro,positif,2,4,1,centre hospitalier de cornouaille quimper concarneau
+ChIJA5U52X4hyRIRsnPH3SGnz2k,negatif,3,6,8,hôpital san salvadour ap-hp
+ChIJA5U52X4hyRIRsnPH3SGnz2k,positif,4,7,2,hôpital san salvadour ap-hp
+ChIJA6NjEHSMrBIRbFZFcl2snmk,negatif,7,1,4,centre hospitalier
+ChIJAQAvxeLQVQ0RxnITVFdWHq0,negatif,8,6,5,"centre hospitalier de mont-de-marsan site layné, service des urgences"
+ChIJAQAvxeLQVQ0RxnITVFdWHq0,positif,2,4,1,"centre hospitalier de mont-de-marsan site layné, service des urgences"
+ChIJAUVBPlXkikcRwTfcEEjCyTY,negatif,5,6,8,hôpital de voiron
+ChIJAUVBPlXkikcRwTfcEEjCyTY,positif,2,4,1,hôpital de voiron
+ChIJAY-SlGzZVA0RFJaI7wpK9Ic,negatif,9,6,4,centre de gérontologie clinique - hôpital xavier arnozan - groupe hospitalier sud - chu de bordeaux
+ChIJAY-SlGzZVA0RFJaI7wpK9Ic,positif,4,2,9,centre de gérontologie clinique - hôpital xavier arnozan - groupe hospitalier sud - chu de bordeaux
+ChIJAY6GOt66rhIRcp6KQWg0Kk4,negatif,6,7,5,hôpital des enfants
+ChIJAY6GOt66rhIRcp6KQWg0Kk4,positif,4,2,6,hôpital des enfants
+ChIJAZidw-gNrBIREuIr3G3Iexg,negatif,6,5,8,centre hospitalier de montauban
+ChIJAZidw-gNrBIREuIr3G3Iexg,positif,2,4,1,centre hospitalier de montauban
+ChIJAbSqddbQFkgROIpU92Bc2Sk,positif,5,7,2,centre hospitalier michel mazéas service des urgences
+ChIJAd3fZYgeEEgRMnxv37f-k40,negatif,6,8,5,centre hospitalier bretagne atlantique
+ChIJAd3fZYgeEEgRMnxv37f-k40,positif,2,4,1,centre hospitalier bretagne atlantique
+ChIJB0N9xu19shIRn8AZ3I00aSY,negatif,6,5,8,hôpital jacques puel - bourran
+ChIJB0N9xu19shIRn8AZ3I00aSY,positif,4,2,1,hôpital jacques puel - bourran
+ChIJB3vyWHPYVA0RuGy3KR6W2CU,negatif,5,6,8,usn - groupe hospitalier pellegrin - chu de bordeaux
+ChIJB3vyWHPYVA0RuGy3KR6W2CU,positif,0,6,9,usn - groupe hospitalier pellegrin - chu de bordeaux
+ChIJB4yijdjXEUgRPBjEj3DwKR8,positif,0,1,2,ehpad la rose des sables - centre hospitalier du centre-bretagne (chcb)
+ChIJB7z6LSO8FkgRyR9ApN1nqPA,positif,4,6,1,aub santé – centre de dialyse brest questel – consultation néphrologue brest questel
+ChIJBSyjHHPYVA0RaZwJwBd9giI,negatif,6,5,7,hôpital pellegrin bordeaux
+ChIJBSyjHHPYVA0RaZwJwBd9giI,positif,4,2,1,hôpital pellegrin bordeaux
+ChIJBY15UHHSrxIRW9K8_JAk5gE,negatif,5,3,4,centre hospitalier de limoux-quillan
+ChIJBY15UHHSrxIRW9K8_JAk5gE,positif,1,4,2,centre hospitalier de limoux-quillan
+ChIJB_opNAqmVg0RLH2vuotoVOY,negatif,6,8,5,centre hospitalier de dax - côte d'argent
+ChIJB_opNAqmVg0RLH2vuotoVOY,positif,4,2,1,centre hospitalier de dax - côte d'argent
+ChIJBdVbYQAtrhIRdgkRJsw4_es,negatif,6,0,5,trésorerie de centre hospitalier
+ChIJBdVbYQAtrhIRdgkRJsw4_es,positif,0,8,9,trésorerie de centre hospitalier
+ChIJC0X9rmOB2RIRgF3uuaWVjLQ,negatif,6,8,3,clinique de l'ospedale
+ChIJC0X9rmOB2RIRgF3uuaWVjLQ,positif,2,4,1,clinique de l'ospedale
+ChIJC3Y9kUnuEEgRH1ULC4h8CHo,negatif,6,8,5,hôpital de la villeneuve - groupe hospitalier bretagne sud - quimperlé
+ChIJC3Y9kUnuEEgRH1ULC4h8CHo,positif,2,4,6,hôpital de la villeneuve - groupe hospitalier bretagne sud - quimperlé
+ChIJCT4DMTZQDkgRWfAzPb0ckCg,negatif,6,5,0,centre hospitalier du docteur de tersannes
+ChIJCX79VZxarhIRxNlfUsoWac0,negatif,5,3,2,centre hospitalier jean pierre cassabel - service imagerie
+ChIJCX79VZxarhIRxNlfUsoWac0,positif,4,0,5,centre hospitalier jean pierre cassabel - service imagerie
+ChIJC_Hsgtd0DEgRqgr5sKFc-54,negatif,6,8,2,centre hospitalier de coutances
+ChIJC_Hsgtd0DEgRqgr5sKFc-54,positif,4,6,2,centre hospitalier de coutances
+ChIJCcGnT5JfEEgRNVXCUou17R8,negatif,0,8,7,centre de gérontologie clinique de kerbernès - groupe hospitalier bretagne sud - ploemeur
+ChIJCcGnT5JfEEgRNVXCUou17R8,positif,4,7,1,centre de gérontologie clinique de kerbernès - groupe hospitalier bretagne sud - ploemeur
+ChIJCcosywgdDkgRofm1NZBH3-U,negatif,6,8,5,samu 22
+ChIJD-DD5AjeDkgRApNNWHxg5Ms,negatif,6,5,8,urgences - centre hospitalier privé saint-grégoire
+ChIJD0vY91heEEgROhtUBk8jvho,negatif,6,9,5,efs – maison du don –lorient
+ChIJD0vY91heEEgROhtUBk8jvho,positif,9,2,6,efs – maison du don –lorient
+ChIJD1Qz8AUdDkgRPLgNqcpAjo4,negatif,2,4,3,"centre hospitalier de saint brieuc, service des urgences"
+ChIJD30SjwAtrhIRiY-jkJI0liE,negatif,6,8,5,centre hospitalier de carcassonne
+ChIJD30SjwAtrhIRiY-jkJI0liE,positif,4,2,1,centre hospitalier de carcassonne
+ChIJD3k6uXTYVA0RJgEBU7ftZ3c,negatif,6,7,5,hôpital des enfants - groupe hospitalier pellegrin - chu de bordeaux
+ChIJD3k6uXTYVA0RJgEBU7ftZ3c,positif,4,2,1,hôpital des enfants - groupe hospitalier pellegrin - chu de bordeaux
+ChIJD7s8umrXVA0Rl-mee54f6oU,negatif,6,8,5,centre hospitalier vétérinaire aquivet
+ChIJD7s8umrXVA0Rl-mee54f6oU,positif,2,4,8,centre hospitalier vétérinaire aquivet
+ChIJDWvOFN8rEkgRVONBONlAtiY,negatif,8,6,5,ehpad min ran
+ChIJDWvOFN8rEkgRVONBONlAtiY,positif,4,8,2,ehpad min ran
+ChIJE04uiSQU2hIR4oT5H4P46os,positif,1,4,8,centre valicelli
+ChIJE5_1H2F2VQ0RnxmpQBhNGX0,negatif,8,2,9,centre hospitalier de bazas
+ChIJE5_1H2F2VQ0RnxmpQBhNGX0,positif,6,7,5,centre hospitalier de bazas
+ChIJE9fByD8arxIR9ZYLUl5I54U,negatif,6,5,8,centre hospitalier intercommunal des vallées de l'ariège
+ChIJE9fByD8arxIR9ZYLUl5I54U,positif,4,2,1,centre hospitalier intercommunal des vallées de l'ariège
+ChIJEYK1uDXID0gROSsRfghpcS8,negatif,8,9,7,cmps centre médico-psychologique de secteur pour adultes
+ChIJEaElR7OArhIR8z5JeGUlRiM,negatif,6,8,5,centre hospitalier de lavaur
+ChIJEaElR7OArhIR8z5JeGUlRiM,positif,1,2,4,centre hospitalier de lavaur
+ChIJEbocUAUpCUgRmzTWJnSyiZg,negatif,6,5,8,centre hospitalier simone veil de vitré
+ChIJEbocUAUpCUgRmzTWJnSyiZg,positif,2,4,1,centre hospitalier simone veil de vitré
+ChIJF2W6boMs_0cR6QeEPqKGi0s,negatif,6,0,7,centre hospitalier saint yrieix
+ChIJF2W6boMs_0cR6QeEPqKGi0s,positif,1,7,4,centre hospitalier saint yrieix
+ChIJFX9dr_4vikcRJJszpnb91DE,negatif,6,8,9,centre hospitalier
+ChIJFX9dr_4vikcRJJszpnb91DE,positif,2,4,9,centre hospitalier
+ChIJFXI5UsBStRIRdu_CPZRVg_g,negatif,0,8,7,centre hospitalier drôme vivarais
+ChIJFXI5UsBStRIRdu_CPZRVg_g,positif,0,1,2,centre hospitalier drôme vivarais
+ChIJF_9xT2lu5kcRrjESyBR_Olw,negatif,5,6,8,hôpital lariboisière ap-hp
+ChIJF_9xT2lu5kcRrjESyBR_Olw,positif,2,4,1,hôpital lariboisière ap-hp
+ChIJGUGDha1_-UcR92z2RDxPWTw,negatif,6,5,3,centre hospitalier de guéret
+ChIJGUGDha1_-UcR92z2RDxPWTw,positif,2,4,9,centre hospitalier de guéret
+ChIJGaVcOWV190cRn5Ty1vbhUDU,negatif,6,5,7,centre hospitalier du mont-dore
+ChIJGaVcOWV190cRn5Ty1vbhUDU,positif,4,2,7,centre hospitalier du mont-dore
+ChIJH4YT1cQUVQ0RlUarTybV26s,negatif,5,8,3,centre hospitalier spécialisé de cadillac
+ChIJH4YT1cQUVQ0RlUarTybV26s,positif,9,1,0,centre hospitalier spécialisé de cadillac
+ChIJH4roT1NKshIRpeGUSNLQ1z0,negatif,6,5,8,centre hospitalier
+ChIJH4roT1NKshIRpeGUSNLQ1z0,positif,2,4,6,centre hospitalier
+ChIJHRB-MCiI90cRl8l86a2P7OE,negatif,0,9,2,centre hospitalier de bort-les-orgues
+ChIJHRB-MCiI90cRl8l86a2P7OE,positif,4,5,8,centre hospitalier de bort-les-orgues
+ChIJHdcVzKIUVQ0RaSFdcip7HHo,negatif,1,3,0,🅿️ centre hospitalier de cadillac
+ChIJHdcVzKIUVQ0RaSFdcip7HHo,positif,1,2,4,🅿️ centre hospitalier de cadillac
+ChIJI9zsev7rtRIRfxgdiUZ3k4E,negatif,6,8,5,centre hospitalier d'avignon
+ChIJI9zsev7rtRIRfxgdiUZ3k4E,positif,2,4,1,centre hospitalier d'avignon
+ChIJITAb25_KtRIRzuMCBY5ojcU,positif,4,9,0,centre hospitalier uzès: service gériatrie
+ChIJIYWCVHNyVQ0RME1LRtHuYwU,negatif,6,8,5,centre hospitalier sud gironde site de langon
+ChIJIYWCVHNyVQ0RME1LRtHuYwU,positif,2,4,1,centre hospitalier sud gironde site de langon
+ChIJIaW_4ba3yhIR8-o4Mn1GJrU,negatif,6,8,3,hôpital de die
+ChIJIaW_4ba3yhIR8-o4Mn1GJrU,positif,2,4,1,hôpital de die
+ChIJIcC5KfS4ikcRXtk9sKJrepE,negatif,5,6,0,centre hospitalier st-marcellin
+ChIJIcC5KfS4ikcRXtk9sKJrepE,positif,9,2,1,centre hospitalier st-marcellin
+ChIJJ0NCs9Dm5UcR-RNTxf9ieok,negatif,6,5,8,centre hospitalier sud francilien
+ChIJJ0NCs9Dm5UcR-RNTxf9ieok,positif,4,2,1,centre hospitalier sud francilien
+ChIJJQEtWHzSEUgRQUZ21P7Ugww,negatif,6,5,3,centre hospitalier du centre-bretagne
+ChIJJQEtWHzSEUgRQUZ21P7Ugww,positif,9,7,0,centre hospitalier du centre-bretagne
+ChIJJWZgDrTk2RIRY3QuAflSdtY,negatif,8,6,5,centre hospitalier intercommunal corte-tattone
+ChIJJWZgDrTk2RIRY3QuAflSdtY,positif,4,2,9,centre hospitalier intercommunal corte-tattone
+ChIJJ_i9OMpbEEgRELOgL0Q-5jk,negatif,0,1,3,epsm sud bretagne ch charcot
+ChIJJ_i9OMpbEEgRELOgL0Q-5jk,positif,9,4,0,epsm sud bretagne ch charcot
+ChIJJ_z9_9xgqRIRw1BakmVi1Ts,positif,7,2,1,centre hospitalier de mauvezin
+ChIJJz62MqgT9UcRSOTt8gey-TA,negatif,6,8,4,centre hospitalier d' ardèche nord
+ChIJJz62MqgT9UcRSOTt8gey-TA,positif,4,6,2,centre hospitalier d' ardèche nord
+ChIJKR0a5UQdDkgRrvO8c0QsPDc,negatif,6,5,4,centre gériatrique des capucins
+ChIJKR0a5UQdDkgRrvO8c0QsPDc,positif,4,1,9,centre gériatrique des capucins
+ChIJKcf_dZBgEEgRQdTNiSQJmlo,positif,9,2,4,hôpital de kerdurand - riantec - groupe hospitalier bretagne sud
+ChIJKf4u99y-_UcRF6fD_emkvgY,negatif,6,5,8,chu de poitiers site de la milétrie
+ChIJKf4u99y-_UcRF6fD_emkvgY,positif,4,2,1,chu de poitiers site de la milétrie
+ChIJL0oRW0fZVA0ROrMOFTAFpvI,negatif,5,8,0,maison du haut-lévêque - haut-lévêque - groupe hospitalier sud - chu de bordeaux
+ChIJL0oRW0fZVA0ROrMOFTAFpvI,positif,4,2,9,maison du haut-lévêque - haut-lévêque - groupe hospitalier sud - chu de bordeaux
+ChIJL51pdsRnEUgRgUqdJzKcmiY,positif,1,2,0,radiologie centre hospitalier des pays de morlaix
+ChIJL8Drl3XYVA0R2xmwumsDbkE,negatif,6,5,0,centre aliénor d'aquitaine
+ChIJL8Drl3XYVA0R2xmwumsDbkE,positif,1,4,2,centre aliénor d'aquitaine
+ChIJLRIsYBpzjEcR09sIQXN5SuI,negatif,6,5,8,centre hospitalier alpes-leman hôpital findrol
+ChIJLRIsYBpzjEcR09sIQXN5SuI,positif,2,4,1,centre hospitalier alpes-leman hôpital findrol
+ChIJM-iye6pBqhIRHP4bP8YwTUs,negatif,5,9,7,centre hospitalier agen-nérac (site de nérac)
+ChIJM-iye6pBqhIRHP4bP8YwTUs,positif,4,2,1,centre hospitalier agen-nérac (site de nérac)
+ChIJM4vzmdlp2hIRlaB3h6YjuNk,negatif,6,8,0,clinisud
+ChIJM4vzmdlp2hIRlaB3h6YjuNk,positif,4,2,1,clinisud
+ChIJM7E_Qa7M_kcRATl3ASwnk8c,negatif,6,5,8,centre hospitalier universitaire dupuytren 1
+ChIJM7E_Qa7M_kcRATl3ASwnk8c,positif,4,2,9,centre hospitalier universitaire dupuytren 1
+ChIJMW8CT1E61xIRsIxKopV50XU,negatif,8,5,7,centre hospitalier de castelluccio
+ChIJMXkI26tGBkgROLHhC-f-ct8,negatif,6,5,8,centre hospitalier de cholet
+ChIJMXkI26tGBkgROLHhC-f-ct8,positif,2,4,6,centre hospitalier de cholet
+ChIJMcQGwaer70cRDvRWTIOeCqA,negatif,6,5,8,centre hospitalier de joigny
+ChIJMcQGwaer70cRDvRWTIOeCqA,positif,4,2,5,centre hospitalier de joigny
+ChIJMdpjN3yBBUgRvWjA5aLdmoE,negatif,0,5,8,hopital local estuaire et sillon
+ChIJMdpjN3yBBUgRvWjA5aLdmoE,positif,8,9,0,hopital local estuaire et sillon
+ChIJMfz7-EzVEEgR76fpFGEoyLA,positif,1,2,4,cpef (centre de planification et d'éducation familiale) de quimper
+ChIJN1XXxSguqBIRs6LhVBWWv0Y,negatif,6,9,0,centre hospitalier de bagnères de bigorre
+ChIJN1XXxSguqBIRs6LhVBWWv0Y,positif,4,2,1,centre hospitalier de bagnères de bigorre
+ChIJN7s15PSqrhIR-byQ4x4pRpI,negatif,6,8,5,"la clinique du cheval, centre hospitalier vetérinaire equin"
+ChIJN7s15PSqrhIR-byQ4x4pRpI,positif,2,4,9,"la clinique du cheval, centre hospitalier vetérinaire equin"
+ChIJN8Jpyytq2hIRx0hzcVfYkNc,negatif,5,3,8,centre hospitalier ajaccio (centre de vaccination les salines)
+ChIJN8Jpyytq2hIRx0hzcVfYkNc,positif,7,4,9,centre hospitalier ajaccio (centre de vaccination les salines)
+ChIJNQ3X0CXeDkgRw47sW0h2DWA,negatif,6,5,4,service de dermatologie du chu de rennes
+ChIJNQ3X0CXeDkgRw47sW0h2DWA,positif,9,6,2,service de dermatologie du chu de rennes
+ChIJNSqAdq0jyRIRW7GvriI6co4,negatif,6,5,8,centre hospitalier de hyères
+ChIJNSqAdq0jyRIRW7GvriI6co4,positif,4,2,1,centre hospitalier de hyères
+ChIJNXtpJxilBUgRkjKiASMv1RI,negatif,8,0,4,centre hospitalier loire vendée océan
+ChIJNXtpJxilBUgRkjKiASMv1RI,positif,4,2,1,centre hospitalier loire vendée océan
+ChIJNw83E2LT90cRMNQG3oFQ9Do,negatif,5,6,7,centre hospitalier de saint-flour
+ChIJNw83E2LT90cRMNQG3oFQ9Do,positif,2,4,5,centre hospitalier de saint-flour
+ChIJO8Q1R6SNyRIRrvetviplFgQ,negatif,6,5,8,centre hospitalier du pays d'aix
+ChIJO8Q1R6SNyRIRrvetviplFgQ,positif,4,2,1,centre hospitalier du pays d'aix
+ChIJOQAW8kuBDkgRbL1vkaEVtyA,negatif,7,0,3,centre donald winnicott
+ChIJOS9FhafAyRIRM8mAJ_G8_AM,negatif,5,6,0,hôpitaux universitaires de marseille timone
+ChIJOS9FhafAyRIRM8mAJ_G8_AM,positif,4,2,9,hôpitaux universitaires de marseille timone
+ChIJOaSVQ8Fq5kcR2MJyyb6P8Tc,negatif,6,5,8,centre hospitalier de gonesse
+ChIJOaSVQ8Fq5kcR2MJyyb6P8Tc,positif,4,2,1,centre hospitalier de gonesse
+ChIJOd76eyUvVQ0RyRy1vU09RVI,negatif,8,6,5,ehpad lormont - groupe hospitalier sud - chu de bordeaux
+ChIJOd76eyUvVQ0RyRy1vU09RVI,positif,1,9,2,ehpad lormont - groupe hospitalier sud - chu de bordeaux
+ChIJOeiusWvV_EcRguLbOmK-bq8,negatif,5,3,9,chru tours - site bretonneau
+ChIJOeiusWvV_EcRguLbOmK-bq8,positif,4,2,7,chru tours - site bretonneau
+ChIJOysOOLOX-kcRnDP1DYn61EA,negatif,6,5,8,centre hospitalier jacques coeur
+ChIJOysOOLOX-kcRnDP1DYn61EA,positif,2,4,1,centre hospitalier jacques coeur
+ChIJQ16WnxaKDkgRAxAspUPAvKk,negatif,4,9,7,fondation saint jean de dieu - centre hospitalier dinan saint-brieuc
+ChIJQ16WnxaKDkgRAxAspUPAvKk,positif,2,9,4,fondation saint jean de dieu - centre hospitalier dinan saint-brieuc
+ChIJQ1Boj7-8jUcRW0oBipuT1KY,negatif,6,8,5,centre hospitalier intercommunal de haute-comté
+ChIJQ1Boj7-8jUcRW0oBipuT1KY,positif,4,2,1,centre hospitalier intercommunal de haute-comté
+ChIJQ1ZrDlNJVQ0RDPeiVTAqR4I,negatif,6,5,8,hôpital robert boulin urgences
+ChIJQ1ZrDlNJVQ0RDPeiVTAqR4I,positif,4,2,6,hôpital robert boulin urgences
+ChIJQ7csHfT9CEgROZWaI_W2hi8,negatif,5,6,8,centre hospitalier de laval
+ChIJQ7csHfT9CEgROZWaI_W2hi8,positif,4,2,1,centre hospitalier de laval
+ChIJQS_VOZhRUQ0Re10xJZfY7PU,negatif,8,9,6,centre hospitalier de dax - antenne de saint vincent de tyrosse
+ChIJQUHslJJbBUgRHTzBbQQ7myU,negatif,6,5,4,hôpital intercommunal de la presqu'île - site de guérande
+ChIJQUHslJJbBUgRHTzBbQQ7myU,positif,4,9,0,hôpital intercommunal de la presqu'île - site de guérande
+ChIJQWw0l4h2thIR4vUHKNjww8s,negatif,6,5,8,centre hospitalier d'arles hôpital joseph imbert
+ChIJQWw0l4h2thIR4vUHKNjww8s,positif,4,2,5,centre hospitalier d'arles hôpital joseph imbert
+ChIJQ_4jgIXQ5UcRhf8mm5LZSBs,negatif,6,5,8,centre hospitalier d'arpajon
+ChIJQ_4jgIXQ5UcRhf8mm5LZSBs,positif,4,1,2,centre hospitalier d'arpajon
+ChIJQa4t0uq_qxIR8F2x_oNbQyw,negatif,8,6,9,centre hospitalier des deux rives
+ChIJQa4t0uq_qxIR8F2x_oNbQyw,positif,1,4,9,centre hospitalier des deux rives
+ChIJQaThpYMs_0cRG6MiWlSxymQ,negatif,6,5,8,centre hospitalier jacques boutard
+ChIJQaThpYMs_0cRG6MiWlSxymQ,positif,4,2,1,centre hospitalier jacques boutard
+ChIJQwhZg-C6rhIRHV4Y7-PIiTU,negatif,5,6,3,hôpital pierre-paul riquet
+ChIJQwhZg-C6rhIRHV4Y7-PIiTU,positif,2,4,1,hôpital pierre-paul riquet
+ChIJQwzMj4KFi0cRANVb4yurCA8,negatif,6,8,5,centre hospitalier annecy genevois
+ChIJQwzMj4KFi0cRANVb4yurCA8,positif,4,2,1,centre hospitalier annecy genevois
+ChIJR0Qwt33C9EcRJ9ZMIpJfBtE,negatif,6,5,8,ghm les portes du sud
+ChIJR0Qwt33C9EcRJ9ZMIpJfBtE,positif,2,4,1,ghm les portes du sud
+ChIJR2QIzT3C-EcRruFIHRkkyjg,positif,4,1,2,centre hospitalier gériatrique
+ChIJR3tRwbag-0cR-TrhxCO67rc,negatif,6,5,8,centre hospitalier de châteauroux
+ChIJR3tRwbag-0cR-TrhxCO67rc,positif,2,4,1,centre hospitalier de châteauroux
+ChIJR7YajfbZVA0RkkyC4YdFD7Q,negatif,6,5,8,groupe hospitalier pellegrin
+ChIJR7YajfbZVA0RkkyC4YdFD7Q,positif,4,2,1,groupe hospitalier pellegrin
+ChIJRQbJBmeJrBIRhmkmwgozI7w,negatif,5,6,8,centre hospitalier
+ChIJRQbJBmeJrBIRhmkmwgozI7w,positif,4,2,1,centre hospitalier
+ChIJRTherHAz2hIR30Nj1QeFrNo,negatif,6,5,8,centre hospitalier de sartène
+ChIJRTherHAz2hIR30Nj1QeFrNo,positif,2,4,1,centre hospitalier de sartène
+ChIJRVZq8q4MBUgRwO_MsEkQmYw,negatif,3,6,0,hôpital intercommunal du pays de retz
+ChIJRVZq8q4MBUgRwO_MsEkQmYw,positif,4,8,9,hôpital intercommunal du pays de retz
+ChIJRb6U2dUYEEgR3NK91ciVg_o,positif,4,1,5,centre hospitalier bretagne atlantique - service cardiologie
+ChIJRb6U2dUYEEgROle4j8X6P6I,negatif,0,5,6,centre hospitalier bretagne atlantique - service radiologie
+ChIJRb6U2dUYEEgROle4j8X6P6I,positif,2,9,6,centre hospitalier bretagne atlantique - service radiologie
+ChIJS0YHFBXZqRIRyLo6zXofvXk,negatif,5,4,2,hôpital gériatrique de vic en bigorre - accueil acacias - centre hospitalier de bigorre
+ChIJS0YHFBXZqRIRyLo6zXofvXk,positif,9,1,6,hôpital gériatrique de vic en bigorre - accueil acacias - centre hospitalier de bigorre
+ChIJS4_EXb1VrRIRCo17TM7VsQA,negatif,8,6,5,centre hospitalier henri mondor d'aurillac
+ChIJS4_EXb1VrRIRCo17TM7VsQA,positif,4,1,2,centre hospitalier henri mondor d'aurillac
+ChIJS6KkWIP7EEgRlabCuxUuwN8,negatif,6,0,5,centre hospitalier de kerglanchard - groupe hospitalier bretagne sud - quimperlé
+ChIJS7ATci79-kcRjA7a1mRSvTw,negatif,6,5,3,centre hospitalier de la tour blanche
+ChIJS7ATci79-kcRjA7a1mRSvTw,positif,4,2,9,centre hospitalier de la tour blanche
+ChIJS958ju2o8UcR3znoWcZ64NE,negatif,8,0,5,centre hospitalier de decize
+ChIJS958ju2o8UcR3znoWcZ64NE,positif,2,4,1,centre hospitalier de decize
+ChIJT9uXHxGKDkgRd0JSXWsnjdI,positif,4,9,8,centre hospitalier de dinan
+ChIJTUo3Ppnm9EcRx_Eq6Yh8Soc,negatif,6,5,8,centre hospitalier de givors
+ChIJTUo3Ppnm9EcRx_Eq6Yh8Soc,positif,1,4,2,centre hospitalier de givors
+ChIJTWtBPZT_Vg0Rkm32fUzLOmo,negatif,5,6,7,centre hospitalier général d'oloron
+ChIJTWtBPZT_Vg0Rkm32fUzLOmo,positif,2,4,1,centre hospitalier général d'oloron
+ChIJTWxzLr_zqxIRjKkepJr7M-0,positif,0,1,4,centre hospitalier intercommunal castelsarrasin moissac
+ChIJTX_b9fnV-UcRRqKUJXDzlMU,negatif,6,3,8,centre hospitalier du pays d'eygurande
+ChIJTXrW_arCrRIRPfc-zWxvIeY,negatif,5,6,8,centre hospitalier d'albi
+ChIJTXrW_arCrRIRPfc-zWxvIeY,positif,4,2,1,centre hospitalier d'albi
+ChIJU0w6JD2UC0gR00NYHrHDsQU,negatif,6,8,5,centre hospitalier mémorial de saint-lô
+ChIJU0w6JD2UC0gR00NYHrHDsQU,positif,2,4,1,centre hospitalier mémorial de saint-lô
+ChIJU3clyAyyqxIRnKKahrgOBkY,negatif,5,9,7,"centre hospitalier départemental ""la candélie"""
+ChIJU3clyAyyqxIRnKKahrgOBkY,positif,4,8,5,"centre hospitalier départemental ""la candélie"""
+ChIJU3fW3oLRVQ0Ruw5IJG755Hw,positif,4,2,9,hôpital layné
+ChIJU6upSEoethIRxN9BJMUCdR8,negatif,6,5,8,centre hospitalier de martigues
+ChIJU6upSEoethIRxN9BJMUCdR8,positif,4,2,1,centre hospitalier de martigues
+ChIJU9E1j_LqyRIRyPIXsoPDF28,negatif,5,6,8,hôpital nord
+ChIJU9E1j_LqyRIRyPIXsoPDF28,positif,4,2,9,hôpital nord
+ChIJUZRRAZ1IVg0RmoblInmZfDI,negatif,6,5,8,centre hospitalier françois mitterrand de pau
+ChIJUZRRAZ1IVg0RmoblInmZfDI,positif,4,2,1,centre hospitalier françois mitterrand de pau
+ChIJUzdz2mWMD0gRUMI6cXkUYcM,negatif,0,2,5,centre hospitalier de basse-vilaine
+ChIJVXvQHnbYVA0RHq6UtxL5Z1U,negatif,8,6,7,centre hospitalier charles perrens
+ChIJVXvQHnbYVA0RHq6UtxL5Z1U,positif,4,9,1,centre hospitalier charles perrens
+ChIJVYeWaWW7rhIR4o4W0Pq-A2c,negatif,5,9,8,centre hospitalier universitaire de toulouse
+ChIJVYeWaWW7rhIR4o4W0Pq-A2c,positif,4,9,2,centre hospitalier universitaire de toulouse
+ChIJVYhdfAMt_kcRz0ifDLsXQWE,positif,4,5,3,centre d'addictologie de la charente (antenne du centre hospitalier camille claudel)
+ChIJVZEw-eErEkgRm9IXfgWWXyw,negatif,0,7,1,fondation bon sauveur - centre françoise dolto
+ChIJVZEw-eErEkgRm9IXfgWWXyw,positif,1,4,2,fondation bon sauveur - centre françoise dolto
+ChIJVbaIxtBiD0gRMxoppjrAdEs,negatif,6,5,7,epsylan etablissement psychiatrique de loire-atlantique nord
+ChIJVbaIxtBiD0gRMxoppjrAdEs,positif,4,7,1,epsylan etablissement psychiatrique de loire-atlantique nord
+ChIJW18RT2-VDkgRDvvM9ZD31XM,positif,4,1,9,centre local hospitalier saint-joseph
+ChIJW2Dplq-MAEgR5i2EteIrXJA,negatif,6,8,5,hôpitaux de grand cognac
+ChIJW2Dplq-MAEgR5i2EteIrXJA,positif,1,4,2,hôpitaux de grand cognac
+ChIJW2Wt9_sy-EcRGuYVi1EYhfI,negatif,6,5,3,centre hospitalier de haute-corrèze
+ChIJW2Wt9_sy-EcRGuYVi1EYhfI,positif,2,4,1,centre hospitalier de haute-corrèze
+ChIJW3vw9jwUEEgR-tx476auB58,negatif,5,8,6,centre hospitalier bretagne atlantique
+ChIJW3vw9jwUEEgR-tx476auB58,positif,2,4,1,centre hospitalier bretagne atlantique
+ChIJWQKU2eVA_UcRkdQ2BxXAIDI,negatif,6,8,0,centre hospitalier du chinonais
+ChIJWQKU2eVA_UcRkdQ2BxXAIDI,positif,4,1,2,centre hospitalier du chinonais
+ChIJWRVO8TDPqkERDrZUJFsPCZw,negatif,6,5,8,centre hospitalier d'angoulême
+ChIJWRVO8TDPqkERDrZUJFsPCZw,positif,4,2,1,centre hospitalier d'angoulême
+ChIJWccy2GH9EUgRCfQycbxh5P8,negatif,6,5,8,hôpital privé des côtes d'armor
+ChIJWccy2GH9EUgRCfQycbxh5P8,positif,1,2,4,hôpital privé des côtes d'armor
+ChIJWxcXmqgT9UcRyCE65M4twfk,negatif,6,8,5,centre hospitalier d'annonay
+ChIJWxcXmqgT9UcRyCE65M4twfk,positif,2,4,1,centre hospitalier d'annonay
+ChIJX4kbVHR8jEcRC5gdSizYHMo,negatif,6,8,5,centre hospitalier annecy genevois - site de saint-julien en genevois
+ChIJX4kbVHR8jEcRC5gdSizYHMo,positif,4,2,1,centre hospitalier annecy genevois - site de saint-julien en genevois
+ChIJX5Zeul0RDkgRcHXNSeQkciQ,negatif,6,0,2,centre hospitalier du penthièvre et du poudouvre
+ChIJX5Zeul0RDkgRcHXNSeQkciQ,positif,4,1,9,centre hospitalier du penthièvre et du poudouvre
+ChIJXbQPb0MM5EcR0hf2f874WiQ,negatif,5,0,6,centre hospitalier hôtel dieu
+ChIJXbQPb0MM5EcR0hf2f874WiQ,positif,1,2,4,centre hospitalier hôtel dieu
+ChIJXyFo8DLFVg0RDmSvhotjQ2c,negatif,6,5,8,centre hospitalier de saint-palais
+ChIJXyFo8DLFVg0RDmSvhotjQ2c,positif,2,4,1,centre hospitalier de saint-palais
+ChIJY4Wtq669FkgRoOHtXSzVVjM,negatif,9,7,3,centre de soins et réadaptation à guilers
+ChIJY4Wtq669FkgRoOHtXSzVVjM,positif,4,9,8,centre de soins et réadaptation à guilers
+ChIJY6xG1C1H9EcRtp5INKePSYc,negatif,6,5,8,centre hospitalier du forez - site de montbrison
+ChIJY6xG1C1H9EcRtp5INKePSYc,positif,4,2,1,centre hospitalier du forez - site de montbrison
+ChIJY9_2z_iIEUgRiJTH5V-c1JU,negatif,0,7,3,fondation bon sauveur
+ChIJY9_2z_iIEUgRiJTH5V-c1JU,positif,9,4,2,fondation bon sauveur
+ChIJYQjTuI8b90cRulIEupivoEI,negatif,5,6,8,chu clermont-fd : site gabriel-montpied
+ChIJYQjTuI8b90cRulIEupivoEI,positif,4,2,1,chu clermont-fd : site gabriel-montpied
+ChIJZ4MssEJZEEgRlEFjF-MG-lo,negatif,5,2,6,epsm sud bretagne ch charcot (direction et services administratifs)
+ChIJZ4MssEJZEEgRlEFjF-MG-lo,positif,7,4,1,epsm sud bretagne ch charcot (direction et services administratifs)
+ChIJZ8C4qSSNqxIRvyMmdI2i_EA,negatif,6,5,8,centre hospitalier intercommunal castelsarrasin moissac
+ChIJZ8C4qSSNqxIRvyMmdI2i_EA,positif,2,4,6,centre hospitalier intercommunal castelsarrasin moissac
+ChIJZQi0O9aD2RIRMon-5sh1I20,negatif,8,0,4,centre médico-psychologique et centre accueil thérapeutique temps partiel
+ChIJZQi0O9aD2RIRMon-5sh1I20,positif,4,8,9,centre médico-psychologique et centre accueil thérapeutique temps partiel
+ChIJZTqdHQPN9kcRmpn9FiJcw9Q,negatif,6,5,8,centre hospitalier de vichy
+ChIJZTqdHQPN9kcRmpn9FiJcw9Q,positif,2,4,1,centre hospitalier de vichy
+ChIJZb3z9PxiVQ0R-sQ_cKa4b-k,negatif,5,4,2,centre hospitalier sud gironde (site de la réole)
+ChIJZb3z9PxiVQ0R-sQ_cKa4b-k,positif,4,1,9,centre hospitalier sud gironde (site de la réole)
+ChIJZeLFBuSn5EcRO26J3HpT5sc,negatif,6,5,8,centre hospitalier de blois
+ChIJZeLFBuSn5EcRO26J3HpT5sc,positif,2,4,1,centre hospitalier de blois
+ChIJ_1VSFMEnVQ0RbgURachHlc0,negatif,6,5,8,hôpital saint-andré
+ChIJ_1VSFMEnVQ0RbgURachHlc0,positif,4,2,1,hôpital saint-andré
+ChIJ_6q_CzHzEUgRaUeFAs5OeSU,positif,2,1,4,centre médico psychologique
+ChIJ____88N6AEgRRHmBSW81b2k,positif,6,2,4,hôpitaux du sud charente : service des urgences
+ChIJ____TIZAUQ0RYq5BJCQkDiw,positif,1,2,5,centre hospitalier de la côte basque service des urgences
+ChIJ_____78c60cRT57o0Tkdydo,negatif,6,5,8,centre hospitalier verdun site saint-nicolas
+ChIJ_____78c60cRT57o0Tkdydo,positif,2,1,4,centre hospitalier verdun site saint-nicolas
+ChIJ____z4keEEgR6rUHks8XE-E,negatif,6,8,5,centre hospitalier chubert service des urgences
+ChIJ_cyigm7YVA0RFysrAnsXrfI,negatif,5,6,7,centre hospitalier​ universitaire de bordeaux
+ChIJ_cyigm7YVA0RFysrAnsXrfI,positif,4,2,9,centre hospitalier​ universitaire de bordeaux
+ChIJ_yJ2d_fX-0cRJbIKR6yC9lI,positif,6,4,2,centre hospitalier la valette
+ChIJa-NVMCWB4UcRrKGXus17SCo,negatif,6,5,8,centre hospitalier de l'aigle
+ChIJa-NVMCWB4UcRrKGXus17SCo,positif,2,4,6,centre hospitalier de l'aigle
+ChIJa6zsxnYbEkgR16WyBFLvbDM,negatif,6,5,8,"centre hospitalier de paimpol, service d'urgence"
+ChIJa6zsxnYbEkgR16WyBFLvbDM,positif,2,4,6,"centre hospitalier de paimpol, service d'urgence"
+ChIJa8uqbQ3UqRIREixZczv2J1w,negatif,6,5,8,centre hospitalier de bigorre
+ChIJa8uqbQ3UqRIREixZczv2J1w,positif,4,2,1,centre hospitalier de bigorre
+ChIJaaEnQ3YbEkgRftA4Krvd-_A,negatif,7,5,6,centre hospitalier paimpol
+ChIJae9ZdQa7EUgRW7hE1Mbe9uc,negatif,0,5,8,centre hospitalier spécialisé chs
+ChIJae9ZdQa7EUgRW7hE1Mbe9uc,positif,4,2,9,centre hospitalier spécialisé chs
+ChIJb8oovQudDkgR6ajxogTkBq4,positif,0,8,5,centre hospitalier des prés bosgers
+ChIJbTjiQHcbEkgRVwBEZPAigGo,negatif,6,5,8,hôpital
+ChIJbTjiQHcbEkgRVwBEZPAigGo,positif,4,2,9,hôpital
+ChIJbaK5LMyktRIRPNQYlun1BnA,negatif,6,8,5,centre hospitalier de bagnols-sur-cèze
+ChIJbaK5LMyktRIRPNQYlun1BnA,positif,2,4,1,centre hospitalier de bagnols-sur-cèze
+ChIJbbpxCcR6AEgRh13635WUJtk,negatif,6,8,5,hôpital de barbezieux-saint-hilaire
+ChIJbbpxCcR6AEgRh13635WUJtk,positif,4,2,1,hôpital de barbezieux-saint-hilaire
+ChIJbdsbfy1JVQ0RbnkztDGNREw,negatif,6,5,8,centre hospitalier de libourne
+ChIJbdsbfy1JVQ0RbnkztDGNREw,positif,2,4,1,centre hospitalier de libourne
+ChIJbfzIBQOnrRIRtuSQQ2lJnIU,negatif,6,5,8,centre hospitalier
+ChIJbfzIBQOnrRIRtuSQQ2lJnIU,positif,2,4,1,centre hospitalier
+ChIJbxwyoLxVrRIRy7Rh-vJtgkY,negatif,6,5,3,centre hospitalier henri mondor
+ChIJbxwyoLxVrRIRy7Rh-vJtgkY,positif,4,2,1,centre hospitalier henri mondor
+ChIJc-XoJ7NiEUgR6KE8i2WSwMc,positif,4,2,9,centre hospitalier
+ChIJc24NyDPID0gRjIrFbeqCAr0,positif,8,5,0,établissement public de santé mentale morbihan
+ChIJcQAJfVZNtRIRWOBBppB2QJQ,negatif,6,8,5,centre hospitalier de valence
+ChIJcQAJfVZNtRIRWOBBppB2QJQ,positif,4,2,1,centre hospitalier de valence
+ChIJcZfTqSidqRIRnGNaxJuG1X8,positif,2,1,0,centre hospitalier
+ChIJcboXXaLKtRIRax2cQ_6UBMA,negatif,8,6,5,hôpital d’uzès
+ChIJcboXXaLKtRIRax2cQ_6UBMA,positif,4,2,1,hôpital d’uzès
+ChIJcfUz7vf5EEgRKUSDj1Q2oM0,negatif,0,8,7,ehpad bois joly - groupe hospitalier bretagne sud - quimperlé
+ChIJcfUz7vf5EEgRKUSDj1Q2oM0,positif,4,1,2,ehpad bois joly - groupe hospitalier bretagne sud - quimperlé
+ChIJd6ElY2P05UcRmzZomQY1vVI,negatif,6,5,8,centre hospitalier de fontainebleau
+ChIJd6ElY2P05UcRmzZomQY1vVI,positif,2,4,1,centre hospitalier de fontainebleau
+ChIJd6yztGIui0cROd2puE8pQ5s,negatif,6,8,5,centre hospitalier pierre oudot
+ChIJd6yztGIui0cROd2puE8pQ5s,positif,4,2,1,centre hospitalier pierre oudot
+ChIJdRi-lVhIVg0R8ExJUiEVJeo,negatif,0,6,8,centre hospitalier des pyrénées
+ChIJdYJlq7eXBkgRf4DTe7EgxT8,negatif,6,5,8,centre hospitalier de fontenay-le-comte
+ChIJdYJlq7eXBkgRf4DTe7EgxT8,positif,2,4,1,centre hospitalier de fontenay-le-comte
+ChIJdb-Si-I_rBIRVtgdYQh-LEc,negatif,7,2,4,centre hospitalier nègrepelisse
+ChIJdbVhF_JCtBIRd9jDM6ydmCc,negatif,6,5,8,centre hospitalier alès-cévennes
+ChIJdbVhF_JCtBIRd9jDM6ydmCc,positif,2,4,1,centre hospitalier alès-cévennes
+ChIJdw7-cW858kcROQEVjdlJ9HA,negatif,6,5,4,centre hospitalier d'autun
+ChIJdw7-cW858kcROQEVjdlJ9HA,positif,2,6,4,centre hospitalier d'autun
+ChIJeYe-7AUN5EcRKBK8iH5-Pew,negatif,6,8,5,centre hospitalier de chartres
+ChIJeYe-7AUN5EcRKBK8iH5-Pew,positif,4,2,1,centre hospitalier de chartres
+ChIJe_wD56PJrhIR97Dz0C_GsV4,negatif,5,8,6,centre hospitalier de muret
+ChIJe_wD56PJrhIR97Dz0C_GsV4,positif,2,4,0,centre hospitalier de muret
+ChIJebLDgAERDkgRGwN_cqAIZTI,negatif,5,7,4,centre de santé de lamballe
+ChIJeyo_jkQk1xIRRDUJZ7YfU58,positif,1,2,9,institut de formation en soins infirmiers (ifsi)
+ChIJf4MCLHGvyRIRl6O0kaZuk_s,negatif,5,6,8,centre hospitalier la ciotat
+ChIJf4MCLHGvyRIRl6O0kaZuk_s,positif,4,1,2,centre hospitalier la ciotat
+ChIJf4kY31NqtRIRI-A5ImObTR4,negatif,6,5,8,groupement hospitalier portes de provence
+ChIJf4kY31NqtRIRI-A5ImObTR4,positif,4,2,1,groupement hospitalier portes de provence
+ChIJf5L1fNm6rhIRH4C34dTGTgw,negatif,8,3,5,hôpital garonne
+ChIJf5L1fNm6rhIRH4C34dTGTgw,positif,4,2,9,hôpital garonne
+ChIJf6hZOgYk1xIRH75ITgL1mY8,negatif,5,6,8,centre hospitalier bastia
+ChIJf6hZOgYk1xIRH75ITgL1mY8,positif,4,2,1,centre hospitalier bastia
+ChIJfSwbXQUMEUgRQnis6jhyDck,negatif,6,8,5,hôpital de carhaix
+ChIJfSwbXQUMEUgRQnis6jhyDck,positif,4,2,1,hôpital de carhaix
+ChIJfXNXMoIvBEgRjaxuw6bsShI,negatif,6,5,8,centre hospitalier départemental vendée
+ChIJfXNXMoIvBEgRjaxuw6bsShI,positif,4,2,1,centre hospitalier départemental vendée
+ChIJfb4fjrpx_0cReZNcuzdTjoQ,positif,4,0,5,centre hospitalier de périgueux - maison de retraite parrot
+ChIJfeNYLfKrFkgRfa5vmppgTgo,negatif,6,1,5,centre médico-psychologique du centre hospitalier pays de morlaix
+ChIJfzFk4qrCrRIRFMvSJcmqmzE,negatif,8,5,3,service des urgences du centre hospitalier d'albi
+ChIJg4JW_BNrD0gRYt2IsQzRUew,negatif,0,5,8,centre hospitalier de grand-fougeray
+ChIJg4JW_BNrD0gRYt2IsQzRUew,positif,9,4,7,centre hospitalier de grand-fougeray
+ChIJgbiuZc9AAUgRifDj8dDAc3k,positif,2,1,6,centre hospitalier de rochefort service des urgences
+ChIJh6BQy7HM_kcRLI7Kj02oUZE,negatif,6,3,7,hôpital le cluzeau
+ChIJhQF0l_is9UcRWZ7mt-0i6Gs,negatif,6,8,5,hôpital nord
+ChIJhQF0l_is9UcRWZ7mt-0i6Gs,positif,2,4,1,hôpital nord
+ChIJhR-3-AjeDkgRgt0OJnsWWh8,negatif,0,9,7,centre hospitalier privé saint-grégoire urgences gynéco-obstétricales
+ChIJhVYz8AUdDkgRv_dj7MEI6Uw,negatif,6,8,5,centre hospitalier de saint brieuc
+ChIJhVYz8AUdDkgRv_dj7MEI6Uw,positif,4,2,1,centre hospitalier de saint brieuc
+ChIJhYtPkIkeEEgRhpC9xFaxqiE,negatif,1,0,7,centre psychothérapique pour adolescents (cppa)
+ChIJhYtPkIkeEEgRhpC9xFaxqiE,positif,0,8,5,centre psychothérapique pour adolescents (cppa)
+ChIJhc6Y8V_aC0gRq8UJR3iP9Hg,negatif,5,6,3,centre hospitalier de vire
+ChIJhc6Y8V_aC0gRq8UJR3iP9Hg,positif,4,7,2,centre hospitalier de vire
+ChIJhd1u2oJIVg0ReuOe5R_Ux6k,negatif,5,9,7,centre jean vignalou
+ChIJhd1u2oJIVg0ReuOe5R_Ux6k,positif,4,2,1,centre jean vignalou
+ChIJhfCB42cDBkgR9SRzH_VmaLo,negatif,6,8,5,centre hospitalier erdre et loire
+ChIJhfCB42cDBkgR9SRzH_VmaLo,positif,2,1,4,centre hospitalier erdre et loire
+ChIJhfOyx2z15kcRPQiNCoItOjo,negatif,6,5,8,hôpital rené dubos
+ChIJhfOyx2z15kcRPQiNCoItOjo,positif,4,2,1,hôpital rené dubos
+ChIJiQB1rqpu5kcRl2xy2EPfp-s,negatif,6,5,8,centre hospitalier de saint-denis
+ChIJiQB1rqpu5kcRl2xy2EPfp-s,positif,4,1,2,centre hospitalier de saint-denis
+ChIJidBpY2Kgk0cR4P3ai-_rI7c,negatif,6,5,8,centre hospitalier emile durkheim
+ChIJidBpY2Kgk0cR4P3ai-_rI7c,positif,2,4,1,centre hospitalier emile durkheim
+ChIJiy9Bb9FmEUgRP_s1nihRumk,positif,9,0,6,pharmacie du centre hospitalier des pays de morlaix
+ChIJiy9Bb9FmEUgRt5gO7R0Rdys,negatif,6,8,5,centre hospitalier des pays de morlaix
+ChIJiy9Bb9FmEUgRt5gO7R0Rdys,positif,4,2,9,centre hospitalier des pays de morlaix
+ChIJizTePtY0Vg0RsYDxBYMkQjQ,negatif,5,8,9,centre hospitalier des pyrénées
+ChIJj52N1gqmVg0RwPFidGw0E2I,negatif,5,6,8,"centre hospitalier de dax côte d'argent, services d'urgences"
+ChIJj52N1gqmVg0RwPFidGw0E2I,positif,2,6,4,"centre hospitalier de dax côte d'argent, services d'urgences"
+ChIJj80JhYujD0gRntqFTzMgciQ,positif,0,1,2,centre hospitalier intercommunal redon-carentoir (site de carentoir)
+ChIJjSa_ga1I_kcRQFErY-0r1Gg,negatif,8,5,6,centre hospitalier de la rochefoucauld
+ChIJjSa_ga1I_kcRQFErY-0r1Gg,positif,4,1,5,centre hospitalier de la rochefoucauld
+ChIJjWIChq9x_0cRtDh09woDNoU,positif,4,8,0,centre hospitalier vauclaire : unité d’addictologie escales
+ChIJjXQXThwk1xIR8PD1WsTmDB8,negatif,0,8,1,maison des adolescents
+ChIJjXQXThwk1xIR8PD1WsTmDB8,positif,4,9,1,maison des adolescents
+ChIJjaob0fBEVQ0R-rW3kbHhjB8,negatif,8,6,3,"clinique de conques, centre hospitalier veterinaire equin"
+ChIJjaob0fBEVQ0R-rW3kbHhjB8,positif,4,2,1,"clinique de conques, centre hospitalier veterinaire equin"
+ChIJjckwKO1p2hIRQU94bsF80ig,negatif,8,9,5,docteur joly bertrand
+ChIJjckwKO1p2hIRQU94bsF80ig,positif,2,4,1,docteur joly bertrand
+ChIJjesAK6WI4kcR0SQiwcWJAdI,negatif,6,5,8,centre hospitalier - le mans
+ChIJjesAK6WI4kcR0SQiwcWJAdI,positif,2,4,9,centre hospitalier - le mans
+ChIJjyydpySNqxIRmkYFFZ8xcmo,positif,4,3,5,centre hospitalier intercommunal castelsarrasin service des urgences
+ChIJk42jRwiatRIRlFo7BT1iHxw,negatif,6,5,8,centre hospitalier louis giorgi (orange)
+ChIJk42jRwiatRIRlFo7BT1iHxw,positif,4,2,1,centre hospitalier louis giorgi (orange)
+ChIJkVdbsHz05UcRCxWBPAtFqJw,negatif,5,9,3,centre hospitalier du sud seine et marne
+ChIJkVl7fkbFzRIRBqFQbSKJPAo,negatif,6,5,8,hôpital pasteur
+ChIJkVl7fkbFzRIRBqFQbSKJPAo,positif,4,2,9,hôpital pasteur
+ChIJkXCDPl0k1xIRpxMtKAhL69E,negatif,6,7,5,mouries jean-claude
+ChIJkYYPaeOlVg0RhqX5Wbx_PJ8,negatif,5,6,0,centre des finances publiques - trésorerie dax centre hospitalier
+ChIJkYYPaeOlVg0RhqX5Wbx_PJ8,positif,0,9,2,centre des finances publiques - trésorerie dax centre hospitalier
+ChIJkbj6QaiZ7kcRQSiQqhgLUoU,negatif,6,5,8,hôpital simone veil - ch de troyes
+ChIJkbj6QaiZ7kcRQSiQqhgLUoU,positif,4,2,1,hôpital simone veil - ch de troyes
+ChIJkx_RVDdFAEgR3wFUBiXTTuA,negatif,6,5,8,hôpital de jonzac
+ChIJkx_RVDdFAEgR3wFUBiXTTuA,positif,4,2,9,hôpital de jonzac
+ChIJl0FARLq-yRIRexWaD-82U6Q,negatif,5,7,2,centre hospitalier spécialisé de valvert
+ChIJl0FARLq-yRIRexWaD-82U6Q,positif,4,5,7,centre hospitalier spécialisé de valvert
+ChIJl7-02oLQqhIRwd_GxJi29fA,negatif,6,5,8,ch bergerac-centre hospitalier samuel pozzi hôpital
+ChIJl7-02oLQqhIRwd_GxJi29fA,positif,4,2,1,ch bergerac-centre hospitalier samuel pozzi hôpital
+ChIJlS6a74bykkcRGwjzFtytiO4,negatif,6,5,8,groupe hospitalier de la haute-saône - site de vesoul
+ChIJlS6a74bykkcRGwjzFtytiO4,positif,4,2,1,groupe hospitalier de la haute-saône - site de vesoul
+ChIJl_3Q04RoBUgRoqraC-CBN88,negatif,2,5,0,centre de planification et d'éducation familiale - centre ivg
+ChIJl_3Q04RoBUgRoqraC-CBN88,positif,2,4,1,centre de planification et d'éducation familiale - centre ivg
+ChIJlbNhFryhB0gRouliuYZZftE,negatif,6,8,5,centre hospitalier nord deux-sèvres - site hospitalier de faye l'abbesse
+ChIJlbNhFryhB0gRouliuYZZftE,positif,2,4,1,centre hospitalier nord deux-sèvres - site hospitalier de faye l'abbesse
+ChIJm1WgM66uthIRm3QtDvfRjP8,negatif,6,5,8,centre hospitalier universitaire de montpellier
+ChIJm1WgM66uthIRm3QtDvfRjP8,positif,2,4,9,centre hospitalier universitaire de montpellier
+ChIJm6JCYNTL5UcRgVlbO5_fEMw,negatif,6,5,8,centre hospitalier sud essonne - site d’etampes
+ChIJm6JCYNTL5UcRgVlbO5_fEMw,positif,4,2,1,centre hospitalier sud essonne - site d’etampes
+ChIJmQRejjHzEUgR94wWr5qg5qU,negatif,6,5,2,"hôpital de guingamp, service des urgences"
+ChIJmQRejjHzEUgR94wWr5qg5qU,positif,4,2,7,"hôpital de guingamp, service des urgences"
+ChIJmTOZ1LrM_kcRtmu-HKE-vN0,negatif,5,6,8,centre hospitalier universitaire dupuytren 1 urgences
+ChIJmTOZ1LrM_kcRtmu-HKE-vN0,positif,2,4,6,centre hospitalier universitaire dupuytren 1 urgences
+ChIJmWlE3WD8qBIRPfO32rNWGBU,negatif,6,5,8,centre hospitalier comminges pyrénées
+ChIJmWlE3WD8qBIRPfO32rNWGBU,positif,4,2,1,centre hospitalier comminges pyrénées
+ChIJmZSh6qxTAUgRjXRIh4P5abo,negatif,6,8,5,hôpital saint-louis de la rochelle
+ChIJmZSh6qxTAUgRjXRIh4P5abo,positif,2,4,9,hôpital saint-louis de la rochelle
+ChIJmcX9IWiHD0gRWgUtwdKwuJQ,positif,4,9,1,centre médico-psychologique (cmp) pour adultes
+ChIJmdzTUde8rBIRDZKH64oF0bQ,negatif,6,8,5,centre hospitalier jean coulon
+ChIJmdzTUde8rBIRDZKH64oF0bQ,positif,2,4,6,centre hospitalier jean coulon
+ChIJmxyWWlolEkgRVlBCDH47abc,positif,4,2,9,centre de rééducation et de réadaptation fonctionnelles en milieu marin de trestel
+ChIJn-A1EQT8DkgRuat9zpFcN4o,positif,9,2,4,centre hospitalier de brocéliande - site de montfort-sur-meu
+ChIJn3FZwqZF8EcRWWN2TCaDqkc,negatif,6,5,8,centre hospitalier de l'agglomération de nevers
+ChIJn3FZwqZF8EcRWWN2TCaDqkc,positif,4,2,8,centre hospitalier de l'agglomération de nevers
+ChIJnxDQmwK6qhIR8dhanCH-Q-E,negatif,5,8,6,centre hospitalier
+ChIJnxDQmwK6qhIR8dhanCH-Q-E,positif,2,4,1,centre hospitalier
+ChIJnxnXBu1p2hIRb_xFxXKwPEg,negatif,5,6,3,centre hospitalier notre-dame de la miséricorde
+ChIJnxnXBu1p2hIRb_xFxXKwPEg,positif,4,2,1,centre hospitalier notre-dame de la miséricorde
+ChIJo-bkfSjUVw0ROOsVKKcXzhI,negatif,6,0,5,centre hospitalier de lourdes
+ChIJo-bkfSjUVw0ROOsVKKcXzhI,positif,2,4,6,centre hospitalier de lourdes
+ChIJo_40jvvttRIRE8-Q_Er1NJ0,negatif,7,8,9,centre hospitalier montfavet avignon
+ChIJo_40jvvttRIRE8-Q_Er1NJ0,positif,9,1,8,centre hospitalier montfavet avignon
+ChIJod-2_gtlEUgRhO2LPqqM2K4,negatif,5,7,0,centre de réhabilitation psychosociale roz ar scour
+ChIJofSAbcj88kcRGvQk6CdWq4E,negatif,6,5,8,centre hospitalier chalon sur saône william morey
+ChIJofSAbcj88kcRGvQk6CdWq4E,positif,4,2,1,centre hospitalier chalon sur saône william morey
+ChIJowRejjHzEUgRXEy2I0YyOSk,negatif,5,9,2,cabinet privé de gastro-entérologie - centre hospitalier de guingamp
+ChIJowRejjHzEUgRXEy2I0YyOSk,positif,4,3,7,cabinet privé de gastro-entérologie - centre hospitalier de guingamp
+ChIJox-5Lq0a70cRYhIpuASD3hw,negatif,6,8,5,centre hospitalier de sens
+ChIJox-5Lq0a70cRYhIpuASD3hw,positif,2,4,1,centre hospitalier de sens
+ChIJp0-9S9ybVA0RJg3geu51ahU,negatif,6,8,5,pole sante
+ChIJp0-9S9ybVA0RJg3geu51ahU,positif,2,4,1,pole sante
+ChIJp1zjK4vfDkgRPPxaQjRdKbo,negatif,2,6,1,maternité - centre hospitalier privé saint-grégoire
+ChIJp1zjK4vfDkgRPPxaQjRdKbo,positif,1,4,7,maternité - centre hospitalier privé saint-grégoire
+ChIJp25pzv5dEEgRdOOvkXO0-qU,negatif,8,2,0,groupe hospitalier bretagne sud - riantec
+ChIJp25pzv5dEEgRdOOvkXO0-qU,positif,4,9,5,groupe hospitalier bretagne sud - riantec
+ChIJp4GZcffX-0cR4AN2w0Dz2aU,negatif,5,6,0,centre hospitalier la valette
+ChIJp4RTfP2I_kcRUZ94ohnXQns,negatif,6,7,5,centre hospitalier de confolens
+ChIJp4RTfP2I_kcRUZ94ohnXQns,positif,2,4,1,centre hospitalier de confolens
+ChIJp5GU6Q2e8kcRjn92NoLSWck,negatif,6,5,8,centre hospitalier universitaire f.mitterrand dijon-bourgogne
+ChIJp5GU6Q2e8kcRjn92NoLSWck,positif,4,2,1,centre hospitalier universitaire f.mitterrand dijon-bourgogne
+ChIJp_6uMYlbEEgRDuHOSco5Rgs,negatif,5,8,7,centre de réadaptation et de gériatrie eudo de kerlivio - groupe hospitalier bretagne sud - hennebont
+ChIJp_6uMYlbEEgRDuHOSco5Rgs,positif,4,9,5,centre de réadaptation et de gériatrie eudo de kerlivio - groupe hospitalier bretagne sud - hennebont
+ChIJpdfsdUMP9EcRn1EhGuKFfyY,negatif,6,5,8,centre hospitalier de roanne
+ChIJpdfsdUMP9EcRn1EhGuKFfyY,positif,4,2,1,centre hospitalier de roanne
+ChIJq0ymJYwji0cRPBWW3pGhERA,positif,2,6,7,hôpital local de la tour du pin
+ChIJq6o6JRecD0gRdjfE1frjezo,negatif,6,1,5,centre hospitalier de redon service des urgences
+ChIJq6o6JRecD0gRdjfE1frjezo,positif,4,2,6,centre hospitalier de redon service des urgences
+ChIJq6qqqlPmEUgR6zmqeIu6_Hs,negatif,9,7,0,centre hospitalier du penthièvre & du poudouvre
+ChIJq6qqqlPmEUgR6zmqeIu6_Hs,positif,4,9,0,centre hospitalier du penthièvre & du poudouvre
+ChIJq6rWOtDNqBIR3u_omC-Jhsc,negatif,5,2,0,centre médico-psychologique adultes
+ChIJq6rWOtDNqBIR3u_omC-Jhsc,positif,8,4,7,centre médico-psychologique adultes
+ChIJq7Yr3ub2B0gRHiz0N9Z38m4,negatif,6,8,5,centre hospitalier de saumur
+ChIJq7Yr3ub2B0gRHiz0N9Z38m4,positif,1,2,4,centre hospitalier de saumur
+ChIJq84upCyCDkgRo2u4e4NcrM4,negatif,5,6,7,centre hospitalier saint-malo - chirurgie gynécologique
+ChIJq84upCyCDkgRo2u4e4NcrM4,positif,1,2,4,centre hospitalier saint-malo - chirurgie gynécologique
+ChIJqRJ7DBqcD0gRSQFv7tKXNhk,negatif,8,5,1,centre médico-psychologique (cmp)
+ChIJqRJ7DBqcD0gRSQFv7tKXNhk,positif,6,4,5,centre médico-psychologique (cmp)
+ChIJqTgpjEQk1xIRcED83dqi8QQ,positif,2,9,5,centre hospitalier bastia service des urgences
+ChIJqYtTC1k7qhIR3X0BhJdx-Oo,negatif,6,8,0,centre hospitalier de condom
+ChIJqYtTC1k7qhIR3X0BhJdx-Oo,positif,2,4,6,centre hospitalier de condom
+ChIJqzea-OG7FkgRaUG5qJ9zfUY,negatif,6,5,7,centre hospitalier régional universitaire morvan de brest
+ChIJqzea-OG7FkgRaUG5qJ9zfUY,positif,2,4,1,centre hospitalier régional universitaire morvan de brest
+ChIJr37OmGks_UcRyGbTB1ucKm8,negatif,8,9,5,centre hospitalier
+ChIJr37OmGks_UcRyGbTB1ucKm8,positif,4,7,1,centre hospitalier
+ChIJr4hIhCWcD0gRPe38F30MvkU,positif,4,5,0,ctre hospitalier guillaume regnier
+ChIJrROK6QQk1xIR8JVdAis86sM,negatif,5,6,7,polyclinique maymard - bastia
+ChIJrROK6QQk1xIR8JVdAis86sM,positif,2,4,1,polyclinique maymard - bastia
+ChIJrRZBWX1AUQ0R2GcklEiCawg,negatif,6,5,8,centre hospitalier de la côte basque
+ChIJrRZBWX1AUQ0R2GcklEiCawg,positif,4,2,1,centre hospitalier de la côte basque
+ChIJrWtQ48DazRIRZB-YIY1fetU,negatif,6,5,0,hôpital l'archet
+ChIJrWtQ48DazRIRZB-YIY1fetU,positif,4,1,2,hôpital l'archet
+ChIJsRNPrIsRUQ0RlAhmDAadFYU,positif,4,1,2,centre hospitalier de la côté basque (site de saint-jean-de-luz udazkena)
+ChIJsTHvW4y6rhIR2ubcCKuoWfo,negatif,6,0,8,centre hospitalier universitaire vétérinaire
+ChIJsTHvW4y6rhIR2ubcCKuoWfo,positif,2,4,1,centre hospitalier universitaire vétérinaire
+ChIJs_sW8m-7rhIRuTUQT4CqSiI,negatif,5,6,3,hôpital la grave
+ChIJs_sW8m-7rhIRuTUQT4CqSiI,positif,4,9,2,hôpital la grave
+ChIJsfos0s15BUgRfVMUxP08uvA,negatif,6,8,0,hôpital
+ChIJswZX9FyiD0gRhaxvQBcQPCo,positif,4,1,2,centre hospitalier de redon antenne de consultations de psychiatrie (antenne de consultations de psychiatrie)
+ChIJsxzoh1jMEUgRIjpnDA2JSmo,negatif,6,5,8,centre hospitalier du centre-bretagne
+ChIJsxzoh1jMEUgRIjpnDA2JSmo,positif,2,4,1,centre hospitalier du centre-bretagne
+ChIJt0l092zSAUgR3hL2dSPRdpY,negatif,6,5,8,centre hospitalier de la haute gironde
+ChIJt0l092zSAUgR3hL2dSPRdpY,positif,2,4,6,centre hospitalier de la haute gironde
+ChIJt64-dOrVEEgRW35VV-BIOEU,negatif,6,5,8,centre hospitalier de cornouaille
+ChIJt64-dOrVEEgRW35VV-BIOEU,positif,4,2,1,centre hospitalier de cornouaille
+ChIJt72tf_PD0BIRniHG8RfvRIk,negatif,0,5,6,centre médico psychologique
+ChIJtVzj56-CqRIRJGctkD_24KM,negatif,5,8,6,centre hospitalier spécialisé du gers
+ChIJtVzj56-CqRIRJGctkD_24KM,positif,4,5,2,centre hospitalier spécialisé du gers
+ChIJtXIQP-oZ-EcRCd8CK9Ly3TU,negatif,3,6,4,centre hospitalier de mauriac
+ChIJtXIQP-oZ-EcRCd8CK9Ly3TU,positif,4,2,5,centre hospitalier de mauriac
+ChIJtXcOWV9IVg0R7YHqsVtZvg4,negatif,0,8,9,centre hospitalier des pyrénées
+ChIJtXcOWV9IVg0R7YHqsVtZvg4,positif,9,4,1,centre hospitalier des pyrénées
+ChIJtYQ6LuWA70cRxOtCGEHMq3s,negatif,6,8,5,centre hospitalier de l'agglomération montargoise
+ChIJtYQ6LuWA70cRxOtCGEHMq3s,positif,4,2,1,centre hospitalier de l'agglomération montargoise
+ChIJtYrgiQCO-EcRKXD9f4VubPE,negatif,9,8,7,centre hospitalier gériatrique
+ChIJtYrgiQCO-EcRKXD9f4VubPE,positif,1,9,2,centre hospitalier gériatrique
+ChIJu1kW7u7XjEcRrEh8vf-CRRk,negatif,8,6,5,centre hospitalier jura sud
+ChIJu1kW7u7XjEcRrEh8vf-CRRk,positif,2,4,1,centre hospitalier jura sud
+ChIJu3fHddbQFkgRuINw1ugpkwo,negatif,8,0,5,centre hospitalier michel mazéas
+ChIJu3fHddbQFkgRuINw1ugpkwo,positif,4,2,9,centre hospitalier michel mazéas
+ChIJu5GII3NMqBIR0S-Q7K4VE3c,negatif,5,6,8,centre hospitalier de lannemezan
+ChIJu5GII3NMqBIR0S-Q7K4VE3c,positif,4,2,1,centre hospitalier de lannemezan
+ChIJu9p3WpY7shIRO_UMkQD5Q-8,negatif,6,7,5,centre hospitalier emile borel
+ChIJu9p3WpY7shIRO_UMkQD5Q-8,positif,4,1,2,centre hospitalier emile borel
+ChIJuRGbL-kRrhIRFdeRXOy0e8Y,negatif,6,8,5,centre hospitalier intercommunal castres-mazamet
+ChIJuRGbL-kRrhIRFdeRXOy0e8Y,positif,2,4,1,centre hospitalier intercommunal castres-mazamet
+ChIJuTn2oJL65EcR9EsN4kC__v4,negatif,6,5,8,centre hospitalier régional d'orléans hôpital de la source
+ChIJuTn2oJL65EcR9EsN4kC__v4,positif,2,4,1,centre hospitalier régional d'orléans hôpital de la source
+ChIJuU4qS4plBUgRQB33cvlLI1w,negatif,6,8,5,centre hospitalier saint nazaire
+ChIJuU4qS4plBUgRQB33cvlLI1w,positif,4,2,1,centre hospitalier saint nazaire
+ChIJuVUhjty7rhIR2GnS2Bbnj6o,negatif,8,9,3,centre hospitalier gérard marchant - hôpital marchant
+ChIJuVUhjty7rhIR2GnS2Bbnj6o,positif,5,2,1,centre hospitalier gérard marchant - hôpital marchant
+ChIJueNS2y1H9EcRB1OP9bCGOKY,negatif,6,5,8,centre hospitalier du forez - site de feurs
+ChIJueNS2y1H9EcRB1OP9bCGOKY,positif,2,4,9,centre hospitalier du forez - site de feurs
+ChIJufZCgAH79UcRk2MpuInkdf4,negatif,5,6,8,centre hospitalier emile roux
+ChIJufZCgAH79UcRk2MpuInkdf4,positif,2,4,6,centre hospitalier emile roux
+ChIJuflF5YHU5UcRTkszY7sNAo8,negatif,5,6,8,centre hospitalier de bligny
+ChIJuflF5YHU5UcRTkszY7sNAo8,positif,4,2,1,centre hospitalier de bligny
+ChIJuw8NRPc-1xIR1K2VdyLgh0c,negatif,8,0,5,ehpad de porto-vecchio (centre hospitalier de bonifachio)
+ChIJuwLSdG6zFkgRs94i4mC5_Do,negatif,9,3,7,centre hospitalier ferdinand grall
+ChIJuyju47ojEkgRKTE8-KMaku8,negatif,3,9,7,centre hospitalier de treguier
+ChIJuyju47ojEkgRKTE8-KMaku8,positif,2,1,9,centre hospitalier de treguier
+ChIJv5bysMuXFkgRI8Ns9Y3a6MU,negatif,6,8,0,centre hospitalier le jeune
+ChIJv5bysMuXFkgRI8Ns9Y3a6MU,positif,1,2,4,centre hospitalier le jeune
+ChIJv96kbCbeDkgRREJ_RMbuuf8,negatif,6,8,5,centre hospitalier universitaire de pontchaillou
+ChIJv96kbCbeDkgRREJ_RMbuuf8,positif,2,4,6,centre hospitalier universitaire de pontchaillou
+ChIJvVhCDfpurRIRkB5bJt7P4yM,negatif,8,5,6,centre hospitalier pierre delpech
+ChIJvVhCDfpurRIRkB5bJt7P4yM,positif,2,4,6,centre hospitalier pierre delpech
+ChIJvW4NyUOBDkgRKUzIf-_zDL8,negatif,5,6,8,"centre hospitalier de saint malo, service des urgences"
+ChIJvW4NyUOBDkgRKUzIf-_zDL8,positif,1,5,2,"centre hospitalier de saint malo, service des urgences"
+ChIJvw_qNIgeEEgRdBBsWSvpo5E,negatif,6,5,8,hôpital chubert
+ChIJvw_qNIgeEEgRdBBsWSvpo5E,positif,4,2,1,hôpital chubert
+ChIJw2cQ_NBIVg0RmvDqIqk47lU,negatif,0,8,9,centre hospitalier des pyrénées-pau psychiatrie
+ChIJw2cQ_NBIVg0RmvDqIqk47lU,positif,2,6,8,centre hospitalier des pyrénées-pau psychiatrie
+ChIJw2qDVGIbi0cRUFVf5SOmXFQ,negatif,6,5,8,centre hospitalier yves touraine
+ChIJw2qDVGIbi0cRUFVf5SOmXFQ,positif,4,2,5,centre hospitalier yves touraine
+ChIJwQEH0ILQqhIR_RtWRXr5Taw,negatif,6,5,8,centre hospitalier de bergerac service des urgences
+ChIJwQEH0ILQqhIR_RtWRXr5Taw,positif,2,4,6,centre hospitalier de bergerac service des urgences
+ChIJwSEkc5GM-EcRhzD-gQpJhZ8,negatif,6,8,5,centre hospitalier de tulle
+ChIJwSEkc5GM-EcRhzD-gQpJhZ8,positif,2,4,1,centre hospitalier de tulle
+ChIJwbRjNRDzEUgR7j-fPrOaVHQ,negatif,6,3,9,centre de sante armor argoat medecins generalistes
+ChIJwbRjNRDzEUgR7j-fPrOaVHQ,positif,2,5,4,centre de sante armor argoat medecins generalistes
+ChIJx90rkqtfEEgRFhIlUXo80QU,negatif,1,8,0,hôpital du scorff - groupe hospitalier bretagne sud - lorient
+ChIJx90rkqtfEEgRFhIlUXo80QU,positif,2,4,1,hôpital du scorff - groupe hospitalier bretagne sud - lorient
+ChIJxVN7jrpx_0cRFbByRvmD9Ro,negatif,6,8,5,centre hospitalier de périgueux
+ChIJxVN7jrpx_0cRFbByRvmD9Ro,positif,4,2,1,centre hospitalier de périgueux
+ChIJxcS5WVes9UcRQZ-OZpR9yPQ,negatif,6,5,8,centre hospitalier universitaire de saint-étienne
+ChIJxcS5WVes9UcRQZ-OZpR9yPQ,positif,4,2,1,centre hospitalier universitaire de saint-étienne
+ChIJxckDZC0Ti0cR3Qt2y8QC7hs,negatif,6,8,7,centre hospitalier bugey sud
+ChIJxckDZC0Ti0cR3Qt2y8QC7hs,positif,4,2,1,centre hospitalier bugey sud
+ChIJxeppS_ky-EcR6Z_RmT41RkE,negatif,6,5,8,centre hospitalier d'ussel
+ChIJxeppS_ky-EcR6Z_RmT41RkE,positif,1,0,7,centre hospitalier d'ussel
+ChIJxyv-2bhY-EcRQZdGZAwobxc,negatif,5,6,8,centre hospitalier de brive
+ChIJxyv-2bhY-EcRQZdGZAwobxc,positif,4,2,1,centre hospitalier de brive
+ChIJy0DiATvzEUgRSxsGhVggz0c,negatif,6,3,9,polyclinique du pays de rance 22100 dinan
+ChIJy0DiATvzEUgRSxsGhVggz0c,positif,2,4,8,polyclinique du pays de rance 22100 dinan
+ChIJy2WGaVJusBIRoDaR0TpmZDA,negatif,6,5,8,centre hospitalier de perpignan
+ChIJy2WGaVJusBIRoDaR0TpmZDA,positif,2,4,1,centre hospitalier de perpignan
+ChIJy5rg3G4b9UcRhSCv3Tw_GG0,negatif,8,5,7,hopital local de pelussin
+ChIJy5rg3G4b9UcRhSCv3Tw_GG0,positif,1,4,2,hopital local de pelussin
+ChIJy8kEFCyHrhIRvNW2vujwJr4,negatif,6,0,8,centre hospitalier philippe pinel
+ChIJy9GO5massRIRyhBE7f6SBFY,negatif,6,8,5,centre hospitalier de narbonne
+ChIJy9GO5massRIRyhBE7f6SBFY,positif,4,2,1,centre hospitalier de narbonne
+ChIJy_zZDj8WyhIRzIf8zNUMjCQ,negatif,5,6,8,centre hospitalier d'apt
+ChIJy_zZDj8WyhIRzIf8zNUMjCQ,positif,4,2,1,centre hospitalier d'apt
+ChIJyw6MHaDyjEcRBxoriJjlYDw,negatif,6,7,8,centre hospitalier louis jaillon de saint claude
+ChIJyw6MHaDyjEcRBxoriJjlYDw,positif,2,4,1,centre hospitalier louis jaillon de saint claude
+ChIJz5DqhAUdDkgRMrPlpdzPi1I,negatif,6,0,5,efs – maison du don – saint brieuc
+ChIJz5DqhAUdDkgRMrPlpdzPi1I,positif,4,2,1,efs – maison du don – saint brieuc
+ChIJzyELwhWKDkgR7z40ZmYcM9c,negatif,6,5,8,centre hospitalier général rené pleven
+ChIJzyELwhWKDkgR7z40ZmYcM9c,positif,2,4,1,centre hospitalier général rené pleven
+ChIJzybplaCM-EcRwdZK56xfuyQ,positif,2,4,5,"centre hospitalier de tulle, service des urgences"
